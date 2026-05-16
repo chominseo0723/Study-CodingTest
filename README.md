@@ -8,7 +8,7 @@
 
 ## 진행 사이트
 - 프로그래머스 (https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=python%2Cpython3)
-- <추가 예정>
+- 정올 (https://jungol.co.kr/problem)
 
 ## Detail
 ### 1. 공통 문제 풀이
@@ -17,7 +17,7 @@
 - 팀원 모두 같은 문제를 풀고 결과 공유 및 리뷰
 
 ### 2. 개인 문제 풀이
-- 문제 플랫폼: 프로그래머스 또는 ~~ 자유 선택
+- 문제 플랫폼: 프로그래머스 또는 정올 자유 선택
 
 ### 3. 마감 기한
 - 그 주 일요일 자정까지 제출 및 전주 코드 리뷰 완료
